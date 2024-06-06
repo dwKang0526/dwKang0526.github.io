@@ -11,11 +11,11 @@
 # 사이트 설정
 # 이는 새 사이트를 개인화하는 데 사용됩니다. HTML 파일에서 {{ site.title }}, {{ site.github_repo }} 등으로 접근할 수 있습니다.
 # 원하는 모든 커스텀 변수를 생성할 수 있으며, 템플릿에서 {{ site.myvariable }}로 접근할 수 있습니다.
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: 안녕
+description: 개발 정보를 공유하는 사이트
 baseurl: "" # 사이트의 하위 경로, 예: /blog
-url: "https://just-the-docs.com" # 사이트의 기본 호스트명 및 프로토콜, 예: http://example.com
-repository: just-the-docs/just-the-docs # github-metadata 용
+url: "https://github.com" # 사이트의 기본 호스트명 및 프로토콜, 예: http://example.com
+repository: dwKang0526/dwkang0526.github.io # github-metadata 용
 
 permalink: pretty
 
