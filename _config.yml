@@ -48,7 +48,7 @@ exclude:
   - fixtures/
 
 # 로고 대신 표시할 경로/URL 설정
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/blog-logo.png"
 
 # 사이트 검색 활성화 또는 비활성화
 # true (기본값) 또는 false 지원
